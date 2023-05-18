@@ -1,0 +1,15 @@
+# Exclude files and directories
+node_modules/
+dist/
+build/
+*.exe
+*.dll
+*.zip
+
+# Include code files
+!*.c
+!*.cpp
+!*.java
+!*.py
+!*.rb
+!*.jsw
